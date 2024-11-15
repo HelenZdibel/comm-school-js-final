@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Hydrating Facial Serum",
+    "price": 150,
+    "description": " lightweight serum that provides deep hydration and smooths the skin texture.",
+    "image": "https://picsum.photos/id/1011/200/200"
+  },
+  {
+    "id": 2,
+    "name": "Revitalizing Eye Cream",
+    "price": 120,
+    "description": "Reduces puffiness and dark circles, giving a refreshed look.",
+    "image": "https://picsum.photos/id/1012/200/200"
+  },
+  {
+    "id": 3,
+    "name": "Nourishing Lip Balm",
+    "price": 30,
+    "description": "Keeps lips soft and moisturized throughout the day.",
+    "image": "https://picsum.photos/id/1013/200/200"
+  },
+  {
+    "id": 4,
+    "name": "Anti-Aging Moisturizer",
+    "price": 200,
+    "description": "Minimizes fine lines and keeps skin firm and hydrated.",
+    "image": "https://picsum.photos/id/1014/200/200"
+  },
+  {
+    "id": 5,
+    "name": "Gentle Exfoliating Scrub",
+    "price": 75,
+    "description": "Removes dead skin cells, revealing a brighter complexion.",
+    "image": "https://picsum.photos/id/1015/200/200"
+  },
+  {
+    "id": 6,
+    "name": "Brightening Vitamin C Serum",
+    "price": 180,
+    "description": "Enhances radiance and evens out skin tone with powerful antioxidants.",
+    "image": "https://picsum.photos/id/1016/200/200"
+  },
+  {
+    "id": 7,
+    "name": "Purifying Clay Mask",
+    "price": 95,
+    "description": "Detoxifies and refines pores, leaving skin soft and smooth.",
+    "image": "https://picsum.photos/id/107/200/200"
+  },
+  {
+    "id": 8,
+    "name": "Sunscreen SPF 50+",
+    "price": 60,
+    "description": "High-protection sunscreen suitable for all skin types.",
+    "image": "https://picsum.photos/id/1018/200/200"
+  },
+  {
+    "id": 9,
+    "name": "Soothing Toner",
+    "price": 50,
+    "description": "Calms and balances skin’s pH after cleansing.",
+    "image": "https://picsum.photos/id/1019/200/200"
+  },
+  {
+    "id": 10,
+    "name": "Hydrating Sheet Mask",
+    "price": 25,
+    "description": "A quick hydration boost for dry and tired skin.",
+    "image": "https://picsum.photos/id/1020/200/200"
+  }
+]
