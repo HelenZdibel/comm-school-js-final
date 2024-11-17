@@ -3,6 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html,
+body,
+section {
+  height: 100%;
+}
+
 header {
   display: flex;
   justify-content: space-between;
@@ -46,6 +53,7 @@ ul {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
+  min-height: 70vh;
 }
 
 .item {
@@ -83,4 +91,16 @@ footer {
   display: flex;
   justify-content: center;
   gap: 70px;
+}
+
+@media (max-width: 600px) {
+  .contact {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  iframe {
+    width: 100%;
+    margin: 10px 0;
+  }
 }
